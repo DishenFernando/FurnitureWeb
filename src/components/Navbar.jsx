@@ -57,7 +57,7 @@ function Navbar() {
             <div className="icon-shape"></div>
           </div>
           <div className="brand-text">
-            <h2 className="brand-title">Sinha Furniture</h2>
+            <h2 className="brand-title">Singhe Furniture</h2>
             <span className="brand-subtitle">Fine Craftsmanship</span>
           </div>
         </div>
